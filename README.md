@@ -131,6 +131,8 @@ El funcionamiento es el siguiente:
 
 <img width="1916" height="1034" alt="Ej1" src="https://github.com/user-attachments/assets/04acb215-3c8d-489c-a5e4-1746a831625c" />
 
+[Ver script de Ejercicio1](Scripts/ChangeColor.cs)
+
 ### Ejercicio 2
 
 Crea varios cubos o esferas con Rigidbody dinámico. Muestra por consola el nombre del objeto con el que colisiona, y cámbiale su color al colisionar.
@@ -161,6 +163,7 @@ El funcionamiento es el siguiente:
 
 <img width="1917" height="1033" alt="Ej2" src="https://github.com/user-attachments/assets/f109e7af-06a5-4b87-b571-55968429f7d5" />
 
+[Ver script de Ejercicio2](Scripts/ChangeColor.cs)
 
 ### Ejercicio 3
 
@@ -215,6 +218,10 @@ El funcionamiento es el siguiente:
 ### Prueba de ejecución
 
 <img width="1918" height="1029" alt="Ej3" src="https://github.com/user-attachments/assets/44959d80-06a2-42fe-b5ff-8ece273ba64b" />
+
+[Ver script de Ejercicio3Color](Scripts/ChangeColor.cs)
+
+[Ver script de Ejercicio3Daño](Scripts/ChangeColor.cs)
 
 ### Ejercicio 4
 
@@ -282,6 +289,8 @@ El funcionamiento es el siguiente:
 
 <img width="1918" height="1032" alt="Ej5" src="https://github.com/user-attachments/assets/b7de5cac-dffa-4d11-9ced-d65c9a4750f1" />
 
+[Ver script de Ejercicio5](Scripts/ChangeColor.cs)
+
 ### Ejercicio 6
 
 En la escena debe haber 3 objetos que tengan Collider pero no Rigidbody. Un cubo, una esfera y un cilindro que deben estar alineados. Marcar el cilindro como objetivo a alcanzar por la esfera. El cubo debe hacer de obstáculo entre ambos. Implementar un script que haga que la esfera se dirija al cilindro, cuando la esfera alcance el cubo, este debe cambiar su material.
@@ -339,3 +348,6 @@ El funcionamiento es el siguiente:
 
 <img width="1916" height="1036" alt="Ej6" src="https://github.com/user-attachments/assets/1231d6ed-922c-4f52-907d-323ba4dfe63c" />
 
+[Ver script de Ejercicio6Esfera](Scripts/ChangeColor.cs)
+
+[Ver script de Ejercicio6Cubo](Scripts/ChangeColor.cs)
