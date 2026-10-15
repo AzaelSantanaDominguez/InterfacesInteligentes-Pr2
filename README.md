@@ -348,6 +348,6 @@ El funcionamiento es el siguiente:
 
 <img width="1916" height="1036" alt="Ej6" src="https://github.com/user-attachments/assets/1231d6ed-922c-4f52-907d-323ba4dfe63c" />
 
-[Ver script de Ejercicio6Esfera](Scripts/Ej6Cubo.cs)
+[Ver script de Ejercicio6Cubo](Scripts/Ej6Cubo.cs)
 
-[Ver script de Ejercicio6Cubo](Scripts/Ej6Esfera.cs)
+[Ver script de Ejercicio6Esfera](Scripts/Ej6Esfera.cs)
